@@ -1,0 +1,20 @@
+{
+  "id": 834,
+  "title": "Search Beacon Drone Image Geotagging",
+  "repository_slug": "search-beacon-drone-image-geotagging",
+  "category": "Drones",
+  "platform": "RP2040",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 28,
+  "connectivity": "Telemetry radio",
+  "components": [
+    "battery monitor",
+    "camera"
+  ],
+  "scope": "Build a drones prototype that uses battery monitor, camera to associate captured images with coordinates. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Image Geotagging demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/search-beacon-drone-image-geotagging/search-beacon-drone-image-geotagging.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
